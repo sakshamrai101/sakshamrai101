@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saksham Rai</h1>
-<h3 align="center">A 3rd year CS student at UCSD, with experience and interest in developing full - stack scalable websites. Currently exploring deep learning concepts like SVD and ALS in order to design a precise recommendation system for my startup -> Karya-Productivity.a</h3>
+<h1 align="center">Hi 👋, I'm Saksham</h1>
+<h3 align="center">I have an experience and interest in developing full - stack scalable websites. Currently exploring deep learning concepts like SVD and ALS in order to design a precise recommendation system for my startup -> Karya-Productivity.a</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamrai101&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamrai101" /> </p>
 
