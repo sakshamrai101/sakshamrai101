@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Karya-Productivity](http://www.karya-productivity.com/)
 
-- 🌱 I’m currently learning **the implementation details of developing complex neural networks for building a recommendation system.**
+- 🌱 I’m currently learning **the implementation details of leveraging complex neural networks for building a recommendation system.**
 
 - 👯 I’m looking to collaborate on [Talk-To-Abel](https://talktoabel.com/)
 
