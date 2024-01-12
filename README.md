@@ -32,8 +32,6 @@
 </ul>
 
 - 🔭 I’m currently working on <b><a href="http://www.karya-productivity.com/">Karya-Productivity</a></b>
-- 🌱 I’m currently learning <b>complex neural network implementations for recommendation systems</b>
-- 👯 I’m looking to collaborate on <b><a href="https://talktoabel.com/">Talk-To-Abel</a></b>
 - 👨‍💻 All of my projects are available at <a href="https://incomparable-figolla-a78c6d.netlify.app/">my portfolio</a>
 - 💬 Ask me about <b>data structures and algorithms, databases, front/back-end development</b>
 - 📫 How to reach me: <b><a href="mailto:raisaksham2001@gmail.com">raisaksham2001@gmail.com</a></b>
