@@ -2,13 +2,13 @@
 <h3 align="center">
   I am a 4th-year Math-Cs student at UC San Diego with the following highlights:
 </h3>
-<ul align="center">
-  <li align="center"><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
-  <li align="center"><b>Experience:</b> Multiple internships, hackathons, side projects.</li>
-  <li align="center"><b>BlackStone Lanchpad Incubated Startup:</b> Karya-Productivty</li>
-  <li align="center"><b>Interests:</b> Software engineering with a focus on data-oriented solutions.</li>
-  <li align="center"><b>Specialization:</b> Scalable websites/web-applications.</li>
-  <li align="center"><b>Objective:</b> Seeking NEW GRAD 2024 opportunities.</li>
+<ul>
+  <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
+  <li><b>Experience:</b> Multiple internships, hackathons, side projects.</li>
+  <li><b>BlackStone Launchpad Incubated Startup:</b> Karya-Productivity</li>
+  <li><b>Interests:</b> Software engineering with a focus on data-oriented solutions.</li>
+  <li><b>Specialization:</b> Scalable websites/web-applications.</li>
+  <li><b>Objective:</b> Seeking NEW GRAD 2024 opportunities.</li>
 </ul>
 
 <b>Some Notable Projects:</b>
