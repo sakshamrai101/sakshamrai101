@@ -42,7 +42,7 @@
 </ul>
 
 - 🔭 I’m currently working on <b><a href="http://www.karya-productivity.com/">Karya-Productivity</a></b>
-- 👨‍💻 All of my projects are available at <a href="https://incomparable-figolla-a78c6d.netlify.app/">my portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://sakshamrai2001.netlify.app/">my portfolio</a>
 - 💬 Ask me about <b>data structures and algorithms, databases, front/back-end development</b>
 - 📫 How to reach me: <b><a href="mailto:raisaksham2001@gmail.com">raisaksham2001@gmail.com</a></b>
 - ⚡ Fun fact: <b>I have a large canvas painting of Cristiano Ronaldo in my room</b>
