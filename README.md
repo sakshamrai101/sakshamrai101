@@ -4,16 +4,30 @@
 <b>Notable Projects:</b>
 <ul>
   <li>
-    <b>Official Website of Harm Reduction Coalition of San Diego:</b> <a href="https://sdnaloxone.org/">https://sdnaloxone.org/</a><br>
-    As the sole developer for this critical drug-intervention program, I developed a secure user registration system, automating data transfers from anti-opioid machines and NAP sites to UCSD for research, and creating a portal for reporting Naloxone reversals. This project onboarded over 15,000 users in 4 months and utilized HTML, CSS, JavaScript, PHP, and MySQL.
+    <b>Official Website of Harm Reduction Coalition of San Diego:</b> <a href="https://sdnaloxone.org/">https://sdnaloxone.org/</a>
+    <ul>
+      <li>Sole developer for a critical drug-intervention program.</li>
+      <li>Developed a secure user registration system, automating data transfers, and created a reporting portal.</li>
+      <li>Onboarded over 15,000 users in 4 months.</li>
+      <li>Technologies used: HTML, CSS, JavaScript, PHP, MySQL.</li>
+    </ul>
   </li>
   <li>
-    <b>AI-Based Educational Text-to-Speech Bot:</b> <a href="https://talktoabel.com/">https://talktoabel.com/</a><br>
-    Collaborated in developing this smart, multilingual conversational bot for the SDX-AI Hackathon 2023. It features diverse characters and a custom prompting tool, leveraging OpenAI's GPT-4. The project, shortlisted in the top 10, was built with TypeScript, React, and Node.js.
+    <b>AI-Based Educational Text-to-Speech Bot:</b> <a href="https://talktoabel.com/">https://talktoabel.com/</a>
+    <ul>
+      <li>Part of a team that developed a multilingual conversational bot for the SDX-AI Hackathon 2023.</li>
+      <li>Features diverse characters and a custom prompting tool using OpenAI's GPT-4.</li>
+      <li>Shortlisted in the top 10 of the hackathon.</li>
+      <li>Technologies used: TypeScript, React, Node.js.</li>
+    </ul>
   </li>
   <li>
-    <b>Airlines Delay Data Science Research Project:</b><br>
-    Worked on an in-depth exploratory data analysis of major airlines, focusing on financials, schedules, and delay impacts. This project involved data wrangling, visualization, outlier analysis, and inferential data analysis using linear regression.
+    <b>Airlines Delay Data Science Research Project:</b>
+    <ul>
+      <li>Conducted exploratory data analysis on major airlines.</li>
+      <li>Focused on financials, schedules, and delay impacts.</li>
+      <li>Involved data wrangling, visualization, outlier analysis, and linear regression.</li>
+    </ul>
   </li>
 </ul>
 
@@ -24,4 +38,3 @@
 - 💬 Ask me about <b>data structures and algorithms, databases, front/back-end development</b>
 - 📫 How to reach me: <b><a href="mailto:raisaksham2001@gmail.com">raisaksham2001@gmail.com</a></b>
 - ⚡ Fun fact: <b>I have a large canvas painting of Cristiano Ronaldo in my room</b>
-
