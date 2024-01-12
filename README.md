@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
-<h3 align="center">As a 4th-year Math-Cs student at UC San Diego with minors in Innovation and Entrepreneurship, and Cognitive Science, I've gained extensive experience in Web and App Development, and Data Science. This journey includes internships, hackathons, side projects, and leading an EdTech startup. I'm excited to share some of my notable projects:</h3>
+<h3 align="center">I am a 4th-year Math-Cs student at UC San Diego with a double minor in Innovation and Entrepreneurship and Cognitive Science. Having worked on multiple internships, hackathons, side projects, and running my EdTech startup, my software engineerring journey has granted me invaluable industry-standard experience and a childlike curioisty specifially in finding creative data-oreinted solutions to business/academic problems in the form of scalable websites/web-applications. Currently looking for NEW GRAD 2024 opportunities. </h3>
 
-<b>Notable Projects:</b>
+<b>Some Notable Projects:</b>
 <ul>
   <li>
     <b>Official Website of Harm Reduction Coalition of San Diego:</b> <a href="https://sdnaloxone.org/">https://sdnaloxone.org/</a>
