@@ -8,7 +8,7 @@
   <li><b>BlackStone Launchpad Incubated Startup:</b> Karya-Productivity</li>
   <li><b>Interests:</b> Software engineering with a focus on data-oriented solutions.</li>
   <li><b>Specialization:</b> Scalable websites/web-applications.</li>
-  <li><b>Objective:</b> Seeking NEW GRAD 2024 opportunities.</li>
+  <li><b>Objective:</b> Seeking New Grad 2024 SWE and Data Sceince opportunities.</li>
 </ul>
 
 <b>Some Notable Projects:</b>
