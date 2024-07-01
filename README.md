@@ -39,7 +39,7 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 - Utilized supervised and unsupervised models on ASL samples for strong image recognition capabilities.
 - Developed a real-time ASL interpretation system.
 - Applied PCA to enhance the speed and accuracy of ML models.
-- Machine Learning Notebook Link: 
+- Machine Learning Notebook Link: https://github.com/sakshamrai101/ASL/blob/master/FinalProject_ASL_Classification.ipynb
 - **Technologies used**: CNN, SVM, K-Means, GMM, PCA, Python.
 
 #### Operational Airline Delay Data Science Project
