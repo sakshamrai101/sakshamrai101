@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
 <h4 align="center">
-I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AI/ML-based web-applications. These are my highlights:
+I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AI/ML-based web-applications.
 </h4>
 <ul>
   <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
@@ -8,35 +8,50 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
   <li><b>BlackStone Launchpad Incubated Startup:</b> Karya-Productivity</li>
 </ul>
 
-<b>Some Notable Projects:</b>
-<ul>
-  <li>
-    <b>Official Website of Harm Reduction Coalition of San Diego:</b> <a href="https://sdnaloxone.org/">https://sdnaloxone.org/</a>
-    <ul>
-      <li>Sole developer for a critical drug-intervention program.</li>
-      <li>Developed a secure user registration system, automating data transfers, and created a reporting portal.</li>
-      <li>Onboarded over 15,000 users in 4 months.</li>
-      <li>Technologies used: HTML, CSS, JavaScript, PHP, MySQL.</li>
-    </ul>
-  </li>
-  <li>
-    <b>AI-Based Educational Text-to-Speech Bot:</b> <a href="https://talktoabel.com/">https://talktoabel.com/</a>
-    <ul>
-      <li>Part of a team that developed a multilingual conversational bot for the SDX-AI Hackathon 2023.</li>
-      <li>Features diverse characters and a custom prompting tool using OpenAI's GPT-4.</li>
-      <li>Shortlisted in the top 10 of the hackathon.</li>
-      <li>Technologies used: TypeScript, React, Node.js.</li>
-    </ul>
-  </li>
-  <li>
-    <b>Airlines Delay Data Science Research Project:</b>
-    <ul>
-      <li>Conducted exploratory data analysis on major airlines.</li>
-      <li>Focused on financials, schedules, and delay impacts.</li>
-      <li>Involved data wrangling, visualization, outlier analysis, and linear regression.</li>
-    </ul>
-  </li>
-</ul>
+### My Development Highlight Reel :)
+
+#### Team Lead | DevSurf
+- Led the creation of DevSurf, an interactive developer journal web app.
+- Coordinated efforts among 12 developers, including a successful mid-quarter app pivot.
+- Developed secure backend functionalities for user registration and project widget CRUD operations.
+- Link to App Demo: https://www.youtube.com/watch?v=RadWo17_BG4
+- **Technologies used**: Node.js, SQL Lite.
+
+#### AfyaChat
+- Developed an AI-based platform to reduce lag time in eConsultation between PCPs and specialists.
+- Utilized GPT-3.5 and Lama Index for microservices, achieving 90% accuracy in recommendations.
+- Presented the application at the inaugural Afya Hackathon Demo-Day, earning runners-up recognition.
+- **Technologies used**: GPT-3.5, Lama Index, Twilio.
+
+#### Talk-To-Abel | SDX-AI Hackathon
+- Developed a multilingual educational speech bot ranked in the top 10 projects.
+- Implemented real-time voice chat and enhanced user experience with unique personality profiles.
+- App Link: https://www.droidhub.ai/
+- **Technologies used**: OpenAI GPT-4, TypeScript, React, Node.js, WebSocket, Zustand.
+
+  #### Moon-Markers 2.0 | NASA Space Apps Hackathon
+- Developed a 3D moon visualization using NASA's CGI Moon Kit.
+- Integrated Flask and Python for dynamic data visualization of Apollo Seismic Event Catalogue.
+- Highlighted moonquakes, Apollo mission landings, and key geological features.
+- App Link: https://moon-markers.netlify.app/
+- **Technologies used**: React, Three.js, Flask, Python.
+
+#### American Sign Language Recognition | Machine Learning Project
+- Utilized supervised and unsupervised models on ASL samples for strong image recognition capabilities.
+- Developed a real-time ASL interpretation system.
+- Applied PCA to enhance the speed and accuracy of ML models.
+- **Technologies used**: CNN, SVM, K-Means, GMM, PCA.
+
+#### Operational Airline Delay Data Science Project
+- Conducted EDA on financials and delay data of major airlines.
+- Performed linear regression to analyze the relationship between operational investments and average delay.
+- Co-authored an academic paper on the research findings.
+
+#### Harm Reduction Coalition Drug Intervention Program Dashboard 
+- Developed an SEO-optimized website for HRCSD's Naloxone Program.
+- Engineered a secure registration system, onboarding 3,500+ users in 4 months.
+- Automated data transfers from anti-opioid machines to UCSD.
+- **Technologies used**: HTML, CSS, JavaScript, PHP, MySQL.
 
 - 🔭 I’m currently working on <b><a href="http://www.karya-productivity.com/">Karya-Productivity</a></b>
 - 👨‍💻 All of my projects are available at <a href="https://sakshamrai2001.netlify.app/">my portfolio</a>
