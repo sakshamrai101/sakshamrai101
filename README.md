@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
-<h3 align="center">
-  Recent Math-Cs grad from UC San Diego with the following highlights:
-</h3>
+<h4 align="center">
+I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AI/ML-based web-applications. These are my highlights:
+</h4>
 <ul>
   <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
-  <li><b>Experience:</b> Multiple internships, hackathons, side projects.</li>
+  <li><b>Experience:</b> SDE Internships, hackathons, side projects.</li>
   <li><b>BlackStone Launchpad Incubated Startup:</b> Karya-Productivity</li>
-  <li><b>Interests:</b> Software engineering with a focus on data-oriented solutions.</li>
-  <li><b>Specialization:</b> Scalable websites/web-applications.</li>
-  <li><b>Objective:</b> Seeking New Grad 2024 SWE and Data Sceince opportunities.</li>
 </ul>
 
 <b>Some Notable Projects:</b>
@@ -43,6 +40,5 @@
 
 - 🔭 I’m currently working on <b><a href="http://www.karya-productivity.com/">Karya-Productivity</a></b>
 - 👨‍💻 All of my projects are available at <a href="https://sakshamrai2001.netlify.app/">my portfolio</a>
-- 💬 Ask me about <b>data structures and algorithms, databases, front/back-end development</b>
 - 📫 How to reach me: <b><a href="mailto:raisaksham2001@gmail.com">raisaksham2001@gmail.com</a></b>
 - ⚡ Fun fact: <b>I have a large canvas painting of Cristiano Ronaldo in my room</b>
