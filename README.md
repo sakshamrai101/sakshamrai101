@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
 <h3 align="center">
-  I am a 4th-year Math-Cs student at UC San Diego with the following highlights:
+  Recent Math-Cs grad from UC San Diego with the following highlights:
 </h3>
 <ul>
   <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
