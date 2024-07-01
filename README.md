@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
-<h4 align="center">
+<h3
 I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AI/ML-based web-applications.
-</h4>
+</h3>
 <ul>
   <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
   <li><b>Experience:</b> SDE Internships, hackathons, side projects.</li>
   <li><b>BlackStone Launchpad Incubated Startup:</b> Karya-Productivity</li>
 </ul>
 
-### My Development Highlight Reel :)
+## My Development Highlight Reel :)
 
 #### Team Lead | DevSurf
 - Led the creation of DevSurf, an interactive developer journal web app.
@@ -29,7 +29,7 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 - App Link: https://www.droidhub.ai/
 - **Technologies used**: OpenAI GPT-4, TypeScript, React, Node.js, WebSocket, Zustand.
 
-  #### Moon-Markers 2.0 | NASA Space Apps Hackathon
+#### Moon-Markers 2.0 | NASA Space Apps Hackathon
 - Developed a 3D moon visualization using NASA's CGI Moon Kit.
 - Integrated Flask and Python for dynamic data visualization of Apollo Seismic Event Catalogue.
 - Highlighted moonquakes, Apollo mission landings, and key geological features.
