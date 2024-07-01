@@ -14,13 +14,13 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 - Coordinated efforts among 12 developers, including a successful mid-quarter app pivot.
 - Developed secure backend functionalities for user registration and project widget CRUD operations.
 - Link to App Demo: https://www.youtube.com/watch?v=RadWo17_BG4
-- **Technologies used**: Node.js, SQL Lite.
+- **Technologies used**: Node.js, SQL Lite, Js, CSS and HTML
 
 #### AfyaChat
 - Developed an AI-based platform to reduce lag time in eConsultation between PCPs and specialists.
 - Utilized GPT-3.5 and Lama Index for microservices, achieving 90% accuracy in recommendations.
 - Presented the application at the inaugural Afya Hackathon Demo-Day, earning runners-up recognition.
-- **Technologies used**: GPT-3.5, Lama Index, Twilio.
+- **Technologies used**: GPT-3.5, Lama Index, Twilio, Python, Flask.  
 
 #### Talk-To-Abel | SDX-AI Hackathon
 - Developed a multilingual educational speech bot ranked in the top 10 projects.
@@ -39,17 +39,20 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 - Utilized supervised and unsupervised models on ASL samples for strong image recognition capabilities.
 - Developed a real-time ASL interpretation system.
 - Applied PCA to enhance the speed and accuracy of ML models.
-- **Technologies used**: CNN, SVM, K-Means, GMM, PCA.
+- Machine Learning Notebook Link: 
+- **Technologies used**: CNN, SVM, K-Means, GMM, PCA, Python.
 
 #### Operational Airline Delay Data Science Project
 - Conducted EDA on financials and delay data of major airlines.
 - Performed linear regression to analyze the relationship between operational investments and average delay.
+- Data Science Paper Link: https://github.com/sakshamrai101/Airline-Delay
 - Co-authored an academic paper on the research findings.
 
 #### Harm Reduction Coalition Drug Intervention Program Dashboard 
 - Developed an SEO-optimized website for HRCSD's Naloxone Program.
 - Engineered a secure registration system, onboarding 3,500+ users in 4 months.
 - Automated data transfers from anti-opioid machines to UCSD.
+- Link: https://sdnaloxone.org/
 - **Technologies used**: HTML, CSS, JavaScript, PHP, MySQL.
 
 
