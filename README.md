@@ -53,6 +53,9 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 - Automated data transfers from anti-opioid machines to UCSD.
 - **Technologies used**: HTML, CSS, JavaScript, PHP, MySQL.
 
+
+
+### Buy me Coffee ☕️ 
 - 🔭 I’m currently working on <b><a href="http://www.karya-productivity.com/">Karya-Productivity</a></b>
 - 👨‍💻 All of my projects are available at <a href="https://sakshamrai2001.netlify.app/">my portfolio</a>
 - 📫 How to reach me: <b><a href="mailto:raisaksham2001@gmail.com">raisaksham2001@gmail.com</a></b>
