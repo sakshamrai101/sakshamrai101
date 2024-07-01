@@ -9,7 +9,7 @@ I am a recent Math-CS graduate from UC San Digeo, passionate about developing da
 
 ## My Development Highlight Reel :)
 
-#### Team Lead | DevSurf
+#### DevSurf
 - Led the creation of DevSurf, an interactive developer journal web app.
 - Coordinated efforts among 12 developers, including a successful mid-quarter app pivot.
 - Developed secure backend functionalities for user registration and project widget CRUD operations.
