@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Rai</h1>
-<h3
-I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AI/ML-based web-applications.
-</h3>
+<h3>
+I am a recent Math-CS graduate from UC San Digeo, passionate about developing data-oritented software solutions - particularly interested in developing AIML-based web-applications. </h3>
 <ul>
   <li><b>Double - Minor:</b> Innovation and Entrepreneurship, and Cognitive Science.</li>
   <li><b>Experience:</b> SDE Internships, hackathons, side projects.</li>
