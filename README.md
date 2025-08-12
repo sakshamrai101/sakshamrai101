@@ -23,4 +23,4 @@
 
 ---
 
-📫 [Portfolio](https://sakshamrai2001.netlify.app) • [Email](mailto:raisaksham2001@gmail.com)
+📫 [Portfolio](https://rai-portfolio.vercel.app/landing) • [Email](mailto:raisaksham2001@gmail.com)
