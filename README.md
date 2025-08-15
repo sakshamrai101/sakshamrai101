@@ -14,8 +14,8 @@
 ---
 
 ## 🚀 Projects
-- **Gabriel AI** — CRM-integrated AI voice campaigns (Django, Firebase, AWS)  
-- **CreateBase** — Music royalty matching & ETL pipelines (AWS Glue, PySpark, MongoDB)
+- **Gabriel AI** — An AI-based voice-campaign delivery SaaS (Django, Firebase, AWS)  
+- **CreateBase** — Music royalty matching & ETL pipelines (AWS Glue, PySpark, SQL, MongoDB, Supabase)
 - **Gymscout** - Gyms and fitness center locating and realtime review app (MongoDB, Google Place API, Redis, Node.js)
 - **Talk-to-Abel** — Real-time AI voice agent (GPT-4, Whisper, WebSockets)
 - **AfyaChat** — AI eConsultation platform (GPT-3.5, Flask, Twilio)  
