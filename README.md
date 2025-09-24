@@ -1,6 +1,6 @@
 # 👋 Saksham Rai
 
-> Backend & AI engineer • Math-CS @ UCSD
+> Backend & AI engineer at CreateBase and Gabrial AI• Math-CS @UCSD'2024
 
 ---
 
